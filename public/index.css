@@ -1,0 +1,14 @@
+#root {
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    width:20%;
+    background-color: rgb(107, 237, 100);
+
+}
+body{
+    background-color: antiquewhite;
+}
